@@ -1,3 +1,1 @@
-# training
-project from roadmap.sh
-Link CV saya: https://Wirasandhicandranegara.github.io/cv/
+(https://roadmap.sh/projects/single-page-cv)
